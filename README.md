@@ -9,8 +9,8 @@ usando la api de el traductor se crea este pequeño script.
 
 ```sh
 git clone git@github.com:JuanPerdomo00/pytranslate.git
-cd pytranslate/
 pip or pip3 install -r requirements.txt
+cd pytranslate/
 python3 main.py
 ```
 
