@@ -1,0 +1,4 @@
+# install
+colorama==0.4.4
+googletrans==3.1.0a0
+pyfiglet==0.7
