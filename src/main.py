@@ -20,7 +20,6 @@
 
 from googletrans import Translator
 from color import Color as c
-from pyfiglet import Figlet
 import platform, os
 
 trans = Translator()
